@@ -1,0 +1,21 @@
+[debug] [2023-07-30T02:44:35.225Z] ----------------------------------------------------------------------
+[debug] [2023-07-30T02:44:35.227Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\4L1\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-07-30T02:44:35.227Z] CLI Version:   12.4.6
+[debug] [2023-07-30T02:44:35.228Z] Platform:      win32
+[debug] [2023-07-30T02:44:35.228Z] Node Version:  v18.17.0
+[debug] [2023-07-30T02:44:35.229Z] Time:          Sat Jul 29 2023 21:44:35 GMT-0500 (hora de Ecuador)
+[debug] [2023-07-30T02:44:35.229Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-07-30T02:44:35.236Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-07-30T02:44:35.237Z] > authorizing via signed-in user (aliepn98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\Ali\sexto\APPWEB\webpack-demo
+

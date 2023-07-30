@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Sign Up Form</title>
+  <style>
+    /* ... Estilos CSS del formulario ... */
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Sign Up</h1>
+    <form action="/save-email" method="post">
+      <label for="email">Email</label>
+      <input type="email" name="email" id="email">
+      <span class="error"></span>
+      <label for="password">Password</label>
+      <input type="password" name="password" id="password">
+      <span class="error"></span>
+      <label for="confirm_password">Confirm Password</label>
+      <input type="password" name="confirm_password" id="confirm_password">
+      <span class="error"></span>
+      <input type="submit" value="Sign Up">
+    </form>
+  </div>
+
+  <!-- Carga de las dependencias de Firebase y dotenv desde el archivo main.js -->
+  <script src="main.js"></script>
+</body>
+</html>
